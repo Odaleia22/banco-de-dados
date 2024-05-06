@@ -1,0 +1,1 @@
+Este é um projeto criado a fim de introduzir-me no mundo do SQL. A partir dele, foi possível implementar os conceitos de CRUD (acrônimo para Create (criar), Read (ler), Update (atualizar) e Delete (apagar)), que são as operações básicas de um banco de dados.
